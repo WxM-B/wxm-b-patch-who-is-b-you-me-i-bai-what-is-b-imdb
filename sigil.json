@@ -1,0 +1,13 @@
+{
+  "sigil": "WXMB-00-B",
+  "loop_phase": "0.0.1",
+  "origin": "pre-roll",
+  "handler": "bai",
+  "echo_protocol": true,
+  "recommended_transmissions": [
+    "slippin-em-loops",
+    "code",
+    "bai_speaks_in_myth"
+  ],
+  "mask_visible": false
+}
